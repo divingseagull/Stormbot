@@ -61,4 +61,4 @@ if __name__ == "__main__":
             pass
     with open(f"{path}\\data\\config") as cf:
         pass
-    client.login("OTM5NDgwNTMwOTc2NjQ5MjU3.Yf5dbQ.abliFz1CgssjpG4jR_DXV_Qtqi4")
+    client.login("TOKEN")
